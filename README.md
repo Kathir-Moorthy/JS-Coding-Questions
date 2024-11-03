@@ -49,7 +49,7 @@ For any questions, feel free to reach out:
 
 - Author: Kathir Moorthy Suresh Babu
 - Email: kathirmoorthybsb@gmail.com
-- LinkedIn: Kathir Moorthy LinkedIn
+- LinkedIn: https://www.linkedin.com/in/kathir-moorthy-suresh-babu05/
 
 ### Example
 
