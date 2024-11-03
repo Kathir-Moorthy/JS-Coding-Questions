@@ -40,6 +40,8 @@ Below is a summary of each challenge and the corresponding solution file:
 
 Each function is encapsulated in its respective JavaScript file (`Q1.js`, `Q2.js`, etc.) and can be executed independently. Simply import the required file and call the function with the appropriate parameters.
 
+---
+
 ## Requirements 📌
 
 - A Simple Js Compiler is enough.
